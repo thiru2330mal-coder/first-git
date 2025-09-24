@@ -1,2 +1,2 @@
 print("Add",10+20)
-print("Add",40+20)
+print("mul",40*20)
